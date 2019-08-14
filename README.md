@@ -1,2 +1,2 @@
 # Hello-World
- Learning G3.  
+ Learning D3.  
